@@ -36,6 +36,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated API test framework using node.js and Superagent](https://medium.com/@pratikbodkhe/automated-api-test-framework-using-node-js-and-superagent-84f827194618?source=rss-67ed3a5fa2a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
