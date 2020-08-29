@@ -34,6 +34,15 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="pratikbodkhe's Github Stats" src="https://github-readme-stats.pratikbodkhe.vercel.app/api?username=pratikbodkhe&show_icons=true&hide_border=true" />
+
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbodkhe)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://ilux.in
 [twitter]: https://twitter.com/pratikbodkhe
