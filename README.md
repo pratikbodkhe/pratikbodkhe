@@ -34,12 +34,20 @@
 <br />
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="pratikbodkhe's Github Stats" src="https://github-readme-stats.pratikbodkhe.vercel.app/api?username=pratikbodkhe&show_icons=true&hide_border=true" />
+  <img align="left" alt="pratikbodkhe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratikbodkhe&show_icons=true" />
 
 </details>
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbodkhe)](https://github.com/anuraghazra/github-readme-stats)
 
