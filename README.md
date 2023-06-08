@@ -1,6 +1,5 @@
 ### Hi there, I am Pratik Bodkhe 👋
 
-[![Website](https://img.shields.io/website?label=ilux.in&style=for-the-badge&url=https%3A%2F%2Filux.in)](https://ilux.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pratikbodkhe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpratikbodkhe&screen_name=pratikbodkhe)
 
 ### I'm a Software Test Developer!
